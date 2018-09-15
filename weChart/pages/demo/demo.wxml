@@ -1,0 +1,4 @@
+<view>{{ text }}</view>
+<view>{{ array[0].msg }}</view>
+<view bindtap="viewTap">click me</view>
+<view bindtap="changeText">{{ text }}</view>
